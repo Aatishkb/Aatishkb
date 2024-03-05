@@ -5,7 +5,7 @@
 - 📫 How to reach me :-
 
 * Linkedin Profile -
-  (https://www.linkedin.com/in/aatish-kumar-baitha-ba9523191?)
+  (https://www.linkedin.com/in/aatish-kumar-baitha-ba9523191)
 
 * Websites
  (https://computersciencedatascience.blogspot.com/?m=1) (Blog)
