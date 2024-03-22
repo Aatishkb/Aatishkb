@@ -19,3 +19,6 @@
 * Email -
  (kumaraatishbaitha@gmail.com)
  (aatishkr2023@gmail.com)
+
+* My Resume -
+ (https://github.com/Aatishkb/Aatishkb/blob/main/Resume1.pdf)
