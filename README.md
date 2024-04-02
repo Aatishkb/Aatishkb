@@ -25,3 +25,6 @@
 
 * Certification on AI/ML -
 (https://github.com/Aatishkb/Aatishkb/blob/main/Certification%20AI-ML.png)
+
+* Certification on Data Science -
+(https://github.com/Aatishkb/Aatishkb/blob/main/Certification%20Data%20Science.jpg)
