@@ -22,3 +22,6 @@
 
 * My Resume -
  (https://github.com/Aatishkb/Aatishkb/blob/main/Resume1.pdf)
+
+* Certification on AI/ML -
+(https://github.com/Aatishkb/Aatishkb/blob/main/Certification%20AI-ML.png)
