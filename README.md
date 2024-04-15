@@ -4,11 +4,11 @@
 #### 💞️ I’m looking to collaborate on EDA, Data Analysis,  Data visualization, Machine learning And AI projects.
 #### 📫 How to reach me :-
 
-#### Linkedin Profile :-
-  - (https://www.linkedin.com/in/aatish-kumar-baitha-ba9523191)
+#### Linkedin Profile :- 
+(https://www.linkedin.com/in/aatish-kumar-baitha-ba9523191)
 
 #### Websites :-
-  - (https://computersciencedatascience.blogspot.com/?m=1) (Blog)
+(https://computersciencedatascience.blogspot.com/?m=1) (Blog)
 
 #### Phone :-
   - 7255006247 (Mobile)
