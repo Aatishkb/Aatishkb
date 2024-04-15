@@ -4,18 +4,18 @@
 #### 💞️ I’m looking to collaborate on EDA, Data Analysis,  Data visualization, Machine learning And AI projects.
 #### 📫 How to reach me :-
 
-#### * Linkedin Profile : (https://www.linkedin.com/in/aatish-kumar-baitha-ba9523191)
+##### * Linkedin Profile : (https://www.linkedin.com/in/aatish-kumar-baitha-ba9523191)
 
-#### * Websites : (https://computersciencedatascience.blogspot.com/?m=1) (Blog)
+##### * Websites : (https://computersciencedatascience.blogspot.com/?m=1) (Blog)
 
-#### * Phone :   7255006247 (Mobile)
+##### * Phone :   7255006247 (Mobile)
 
-#### * Address : (Ranchi , Jharkhand, India)
+##### * Address : (Ranchi , Jharkhand, India)
 
-#### * Email : (kumaraatishbaitha@gmail.com) / (aatishkr2023@gmail.com)
+##### * Email : (kumaraatishbaitha@gmail.com) / (aatishkr2023@gmail.com)
 
-#### * My Resume : (https://github.com/Aatishkb/Aatishkb/blob/main/Resume1.pdf)
+##### * My Resume : (https://github.com/Aatishkb/Aatishkb/blob/main/Resume1.pdf)
 
-#### * Certification on AI/ML : (https://github.com/Aatishkb/Aatishkb/blob/main/Certification%20AI-ML.png)
+##### * Certification on AI/ML : (https://github.com/Aatishkb/Aatishkb/blob/main/Certification%20AI-ML.png)
 
-#### * Certification on Data Science : (https://github.com/Aatishkb/Aatishkb/blob/main/Certification%20Data%20Science.jpg)
+##### * Certification on Data Science : (https://github.com/Aatishkb/Aatishkb/blob/main/Certification%20Data%20Science.jpg)
