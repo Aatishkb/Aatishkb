@@ -4,27 +4,27 @@
 #### 💞️ I’m looking to collaborate on EDA, Data Analysis,  Data visualization, Machine learning And AI projects.
 #### 📫 How to reach me :-
 
-* Linkedin Profile -
-  (https://www.linkedin.com/in/aatish-kumar-baitha-ba9523191)
+### Linkedin Profile :-
+  - (https://www.linkedin.com/in/aatish-kumar-baitha-ba9523191)
 
-* Websites
+### Websites :-
  (https://computersciencedatascience.blogspot.com/?m=1) (Blog)
 
-* Phone -
+### Phone :-
  7255006247 (Mobile)
 
-* Address -
+### Address :-
  (Ranchi , Jharkhand, India)
 
-* Email -
+### Email :-
  (kumaraatishbaitha@gmail.com)
  (aatishkr2023@gmail.com)
 
-* My Resume -
+### My Resume :-
  (https://github.com/Aatishkb/Aatishkb/blob/main/Resume1.pdf)
 
-* Certification on AI/ML -
+### Certification on AI/ML :-
 (https://github.com/Aatishkb/Aatishkb/blob/main/Certification%20AI-ML.png)
 
-* Certification on Data Science -
+### Certification on Data Science :-
 (https://github.com/Aatishkb/Aatishkb/blob/main/Certification%20Data%20Science.jpg)
