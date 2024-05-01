@@ -13,4 +13,4 @@
 ##### * Certification on ML & DL From NIT Jamshedpur (https://github.com/Aatishkb/Aatishkb/blob/main/Machine%20Learning%20and%20Deep%20Learning%20Applications%20Oncology.jpg)
 ##### * Certification on AI/ML : (https://github.com/Aatishkb/Aatishkb/blob/main/Certification%20AI-ML.png)
 ##### * Certification on Data Science : (https://github.com/Aatishkb/Aatishkb/blob/main/Certification%20Data%20Science.jpg)
-##### * My Award : ( )
+##### * My Award : (https://github.com/Aatishkb/Aatishkb/blob/main/SERB%20VRITIKA%20PROGRAM%20(ACCELERATE%20VIGYAN%20SCHEME).jpg)
