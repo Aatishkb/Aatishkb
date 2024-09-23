@@ -3,7 +3,6 @@
 ##### 👀 I’m interested in EDA, Data Analysis, Data visualization, Machine learning, AI and deep learning projects.
 ##### 💞️ I’m looking to collaborate on Data Analysis, Data visualization, Machine learning, Deep learning And AI projects.
 ##### 📫 How to reach me :-
-
 ##### * Linkedin Profile : (https://www.linkedin.com/in/aatish-kumar-baitha-ba9523191)
 ##### * Websites : (https://computersciencedatascience.blogspot.com/?m=1) (Blog)
 ##### * Phone :   7255006247 (Mobile)
