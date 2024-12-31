@@ -14,3 +14,5 @@
 ##### * Certification on AI/ML : (https://github.com/Aatishkb/Aatishkb/blob/main/Certification%20AI-ML.png)
 ##### * Certification on Data Science : (https://github.com/Aatishkb/Aatishkb/blob/main/Certification%20Data%20Science.jpg)
 ##### * My Award : (https://github.com/Aatishkb/Aatishkb/blob/main/SERB%20VRITIKA%20PROGRAM%20(ACCELERATE%20VIGYAN%20SCHEME).jpg)
+##### * Certification on My Research :
+https://github.com/Aatishkb/Aatishkb/blob/main/CERT_BITCON_2024-170_page-0001.jpg
