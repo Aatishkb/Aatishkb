@@ -8,7 +8,6 @@
 ##### * Phone :   7255006247 (Mobile)
 ##### * Address : (Ranchi , Jharkhand, India)
 ##### * Email : (kumaraatishbaitha@gmail.com) / (aatishkr2023@gmail.com)
-##### * My Resume : (https://github.com/Aatishkb/Aatishkb/blob/main/Resume(Aatish%20Kr.%20Baitha).pdf)
 ##### * Certification on ML & DL From NIT Jamshedpur : (https://github.com/Aatishkb/Aatishkb/blob/main/Machine%20Learning%20and%20Deep%20Learning%20Applications%20Oncology.jpg)
 ##### * Certification on ML and its Applications in IoT, Computer Vision and Cloud Computing : (https://github.com/Aatishkb/Aatishkb/blob/main/MICC%20Certificates(Participants)-60.pdf)
 ##### * Certification on AI/ML : (https://github.com/Aatishkb/Aatishkb/blob/main/Certification%20AI-ML.png)
