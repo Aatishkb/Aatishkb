@@ -5,7 +5,6 @@
 ##### 📫 How to reach me :-
 ##### * Linkedin Profile : (https://www.linkedin.com/in/aatish-kumar-baitha-ba9523191)
 ##### * Websites : (https://computersciencedatascience.blogspot.com/?m=1) (Blog)
-##### * Phone :   7255006247 (Mobile)
 ##### * Address : (Ranchi , Jharkhand, India)
 ##### * Email : (kumaraatishbaitha@gmail.com) / (aatishkr2023@gmail.com)
 ##### * Certification on ML & DL From NIT Jamshedpur : (https://github.com/Aatishkb/Aatishkb/blob/main/Machine%20Learning%20and%20Deep%20Learning%20Applications%20Oncology.jpg)
