@@ -1,5 +1,4 @@
 ##### 👋 Hi, I’m Aatish Kumar Baitha
-##### 🌱 I have done M.Tech in Data Science.
 ##### 👀 I’m interested in EDA, Data Analysis, Data visualization, Machine learning, AI and deep learning projects.
 ##### 💞️ I’m looking to collaborate on Data Analysis, Data visualization, Machine learning, Deep learning And AI projects.
 ##### 📫 How to reach me :-
