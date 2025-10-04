@@ -5,7 +5,7 @@
 ##### * Linkedin Profile : (https://www.linkedin.com/in/aatish-kumar-baitha-ba9523191)
 ##### * Websites : (https://computersciencedatascience.blogspot.com/?m=1) (Blog)
 ##### * Address : (Ranchi , Jharkhand, India)
-##### * Email : (kumaraatishbaitha@gmail.com) / (aatishkr2023@gmail.com)
+##### * Email : (aatishkb2020@gmail.com)
 ##### * Certification on ML & DL From NIT Jamshedpur : (https://github.com/Aatishkb/Aatishkb/blob/main/Machine%20Learning%20and%20Deep%20Learning%20Applications%20Oncology.jpg)
 ##### * Certification on ML and its Applications in IoT, Computer Vision and Cloud Computing : (https://github.com/Aatishkb/Aatishkb/blob/main/MICC%20Certificates(Participants)-60.pdf)
 ##### * Certification on AI/ML : (https://github.com/Aatishkb/Aatishkb/blob/main/Certification%20AI-ML.png)
